@@ -1,3 +1,5 @@
+Deployed Link: https://oscarkodes.github.io/Movie_Scatter_Plot/
+
 # Tutorial 3
 
 The goals for this tutorial are:
